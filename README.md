@@ -15,5 +15,6 @@ A simple travel journal application built with React that allows users to add, e
 - **Tailwind CSS** - For styling the application. 🎨
 - **useState and useEffect** - For managing application state and side effects. 📊
 
-Screenshots 📷
+## Screenshots 📷
+
 ![traveljournal](https://github.com/user-attachments/assets/96975ad5-2633-4ff0-9ec1-6d7595769cd9)
